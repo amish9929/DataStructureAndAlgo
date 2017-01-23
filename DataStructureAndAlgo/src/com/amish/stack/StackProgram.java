@@ -7,7 +7,7 @@ public class StackProgram {
 
 		System.out.println("TEST");
 		
-		System.out.println("TEST 1");
+		System.out.println("TEST 2");
 	}
 
 }
