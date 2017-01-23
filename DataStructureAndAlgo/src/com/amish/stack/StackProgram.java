@@ -8,6 +8,8 @@ public class StackProgram {
 		System.out.println("TEST");
 		
 		System.out.println("TEST 2");
+		
+		System.out.println("TEST 3");
 	}
 
 }
